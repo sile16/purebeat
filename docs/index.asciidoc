@@ -1,0 +1,5 @@
+= Purebeat Docs
+
+Welcome to the Purebeat documentation.
+
+
